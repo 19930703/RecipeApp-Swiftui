@@ -2,7 +2,7 @@
 //  NutritionalItemView.swift
 //  RecipeApp
 //
-//  Created by Vijay Bhaskar on 01/02/21.
+//  Created by Vijay Bhaskar on 05/02/21.
 //
 
 import SwiftUI
